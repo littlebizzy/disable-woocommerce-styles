@@ -1,6 +1,7 @@
 === Disable WooCommerce Styles ===
 
 Contributors: littlebizzy
+Donate link: https://www.patreon.com/littlebizzy
 Tags: disable, woocommerce, css, styles, stylesheets
 Requires at least: 4.4
 Tested up to: 4.8
