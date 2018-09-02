@@ -4,11 +4,12 @@ Contributors: littlebizzy
 Donate link: https://www.patreon.com/littlebizzy
 Tags: disable, woocommerce, css, styles, stylesheets
 Requires at least: 4.4
-Tested up to: 4.8
-Requires PHP: 7.0
-Stable tag: 1.0.1
-License: GPL3
+Tested up to: 4.9
+Requires PHP: 7.2
+Stable tag: 1.1.0
+License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Prefix: DWCSTY
 
 Completely disables all of the CSS stylesheets that are loaded by WooCommerce in order that styling can be better managed by a single style.css file.
 
@@ -109,8 +110,20 @@ Please avoid leaving negative reviews in order to get a feature implemented. Ins
 
 == Changelog ==
 
+= 1.1.0 =
+* tested with WP 4.9
+* tested with PHP 7.1
+* tested with PHP 7.2
+* optimized plugin code (latest LBPBP boilerplate)
+* plugin uses PHP namespaces
+* object-oriented codebase
+* added recommended plugins notice
+* added rating request notice
+* added warning for Multisite installations
+
 = 1.0.1 =
 * fixed title
 
 = 1.0.0 =
 * initial release
+* tested with PHP 7.0
