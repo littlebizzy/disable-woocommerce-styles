@@ -1,0 +1,16 @@
+{
+    "name": "littlebizzy/disable-woocommerce-styles",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "homepage": "https://www.littlebizzy.com/plugins/disable-woocommerce-styles",
+    "description": "Completely disables all of the CSS stylesheets that are loaded by WooCommerce in order that styling can be better managed by a single style.css file.",
+    "keywords": ["wordpress","plugin","woocommerce","wc","disable","remove","hide","block","loading","deregister","dequeue","styles","css","performance"],
+    "support": {
+        "issues": "https://github.com/littlebizzy/disable-woocommerce-styles/issues",
+        "forum": "https://www.littlebizzy.com/members"
+    }
+    "require": {
+        "php": "^7.2",
+        "composer/installers": "~1.0"
+    }
+}
